@@ -1,5 +1,7 @@
 # Relógio Digital do Maurício
 
+<img width="588" height="341" alt="image" src="https://github.com/user-attachments/assets/d388c36d-f874-4137-8e1e-51054498c4cf" />
+
 Relógio digital desenvolvido em Python e Tkinter, com interface
 minimalista, relógio em tempo real e alternância entre temas.
 
